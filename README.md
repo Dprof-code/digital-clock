@@ -16,8 +16,8 @@ This is a simple Digital clock project. It displays the time in a 24 hours forma
 
 ### Links
 
-- Solution URL: (https://github.com/Dprof-code/product-preview-card-component)
-- Live Site URL: (https://beamish-mooncake-25344e.netlify.app/)
+- Code URL: (https://github.com/Dprof-code/digital-clock)
+- Live Site URL: (https://ago-digital.netlify.app/)
 
 ## My process
 
